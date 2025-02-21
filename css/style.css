@@ -1,0 +1,817 @@
+@import url(variables.css);
+
+* {
+  box-sizing: border-box;
+}
+.white-home {
+  background: #f2f2f2;
+  height: 3911px;
+  position: relative;
+  overflow: hidden;
+}
+.recurso-2-2-1 {
+  width: 405.12px;
+  height: 432.07px;
+  position: absolute;
+  left: 941.86px;
+  top: 171px;
+  transform-origin: 0 0;
+  transform: rotate(13.363deg) scale(1, 1);
+  object-fit: cover;
+}
+.recurso-3-1 {
+  width: 707px;
+  height: 391px;
+  position: absolute;
+  left: 100px;
+  top: 171px;
+  overflow: hidden;
+}
+.capa-2 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.somos-creatividad-somos-crae {
+  color: #141414;
+  text-align: justified;
+  font-family: "RobotoCondensed-Regular.ttf";
+  font-size: 56.400001525878906px;
+  font-weight: 400;
+  position: absolute;
+  left: 100px;
+  top: 588px;
+  width: 707px;
+  height: 71px;
+}
+.crae-es-un-juego-de-cartas-inclusivo-donde-personas-videntes-no-videntes-y-con-discapacidad-visual-pueden-participar-y-disfrutar-en-conjunto {
+  color: #141414;
+  text-align: justified;
+  font-family: "RobotoCondensed-Regular";
+  font-size: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 111px;
+  top: 672px;
+  width: 685px;
+  height: 91px;
+}
+.rectangle-3 {
+  border-radius: 5px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 1353px;
+  top: 667px;
+}
+.c-mo-jugar {
+  color: #141414;
+  text-align: center;
+  font-family: "RobotoCondensed-Bold";
+  font-size: 64px;
+  font-weight: 700;
+  position: absolute;
+  left: 538px;
+  top: 819px;
+  width: 363px;
+  height: 71px;
+}
+.crae-posee-una-modalidad-de-juego-definidas-pero-siempre-apoyamos-la-creatividad-y-que-crees-tus-propias-reglas-y-modalidades {
+  color: #141414;
+  text-align: center;
+  font-family: "RobotoCondensed-Regular";
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 393px;
+  top: 931px;
+  width: 654px;
+  height: 146px;
+}
+.ellipse-2 {
+  background: #000000;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 169px;
+  top: 1147px;
+}
+._1 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "RobotoCondensed-Bold";
+  font-size: 64px;
+  font-weight: 700;
+  position: absolute;
+  left: 207px;
+  top: 1159px;
+  width: 24px;
+  height: 75px;
+}
+.uno-de-los-jugadores-hace-de-creativo-en-cada-uno-de-los-turnos-observa-sus-6-cartas-de-la-mano-y-de-una-de-ellas-debe-construir-una-frase-palabra-o-sonido-y-decirla-en-voz-alta-sin-mostrar-la-carta-a-los-otros-jugadores-la-frase-puede-ser-inventada-o-puede-estar-inspirada-en-la-poes-a-literatura-cine-etc {
+  color: #000000;
+  text-align: left;
+  font-family: "RobotoCondensed-Regular";
+  font-size: 28px;
+  line-height: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 301px;
+  top: 1118px;
+  width: 752px;
+  height: 187px;
+}
+.comenzamos-el-juego-de-izquierda-a-derecha-selecciona-una-carta-que-inspire-tu-frase-y-dila-en-voz-alta-el-resto-de-jugadores-seleccionar-de-entre-sus-cartas-la-que-mejor-se-adapte-a-la-frase-construida-por-el-creativo {
+  color: #000000;
+  text-align: left;
+  font-family: "RobotoCondensed-Regular";
+  font-size: 28px;
+  line-height: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 301px;
+  top: 1388px;
+  width: 768px;
+  height: 143px;
+}
+.ellipse-3 {
+  background: #000000;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 169px;
+  top: 1404px;
+}
+._2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "RobotoCondensed-Bold";
+  font-size: 64px;
+  font-weight: 700;
+  position: absolute;
+  left: 207px;
+  top: 1416px;
+  width: 24px;
+  height: 75px;
+}
+.ellipse-4 {
+  background: #000000;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 169px;
+  top: 1631px;
+}
+._3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "RobotoCondensed-Bold";
+  font-size: 64px;
+  font-weight: 700;
+  position: absolute;
+  left: 207px;
+  top: 1643px;
+  width: 24px;
+  height: 75px;
+}
+.ellipse-5 {
+  background: #000000;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 169px;
+  top: 1857px;
+}
+._4 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "RobotoCondensed-Bold";
+  font-size: 64px;
+  font-weight: 700;
+  position: absolute;
+  left: 201px;
+  top: 1869px;
+  width: 24px;
+  height: 75px;
+}
+.ellipse-6 {
+  background: #000000;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 169px;
+  top: 2097px;
+}
+._5 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "RobotoCondensed-Bold";
+  font-size: 64px;
+  font-weight: 700;
+  position: absolute;
+  left: 201px;
+  top: 2109px;
+  width: 24px;
+  height: 75px;
+}
+.el-objetivo-de-los-jugadores-es-adivinar-cu-l-de-las-cartas-es-la-que-el-creativo-us-para-construir-su-frase-cada-jugador-vota-de-forma-secreta-la-carta-que-cree-que-pertenece-al-creativo-para-ello-coloca-boca-abajo-frente-a-l-un-objeto-que-hayas-escogido-previamente {
+  color: #000000;
+  text-align: left;
+  font-family: "RobotoCondensed-Regular";
+  font-size: 28px;
+  line-height: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 303px;
+  top: 1595px;
+  width: 750px;
+  height: 178px;
+}
+.ic-round-checklist-rtl {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 1114px;
+  top: 1828px;
+  overflow: visible;
+}
+.si-todos-los-jugadores-aciertan-la-carta-del-creativo-todos-los-jugadores-excepto-el-creativo-ganan-2-puntos-en-cualquier-otro-caso-tanto-el-creativo-como-los-jugadores-que-hayan-acertado-obtienen-3-puntos-todos-los-jugadores-ganan-un-punto-por-cada-voto-que-reciba-su-carta {
+  color: #000000;
+  text-align: left;
+  font-family: "RobotoCondensed-Regular";
+  font-size: 28px;
+  line-height: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 301px;
+  top: 1816px;
+  width: 733px;
+  height: 214px;
+}
+.mdi-cards {
+  width: 162px;
+  height: 162px;
+  position: absolute;
+  left: 1106px;
+  top: 1128px;
+  overflow: visible;
+}
+.ic-round-how-to-vote {
+  width: 161px;
+  height: 161px;
+  position: absolute;
+  left: 1098px;
+  top: 1578px;
+  overflow: visible;
+}
+.cada-jugador-roba-cartas-hasta-tener-6-en-su-mano-el-juego-termina-cuando-se-roba-la-ltima-carta-el-jugador-que-m-s-lejos-haya-llegado-en-la-escala-de-puntuaci-n-es-el-ganador {
+  color: #000000;
+  text-align: left;
+  font-family: "RobotoCondensed-Regular";
+  font-size: 28px;
+  line-height: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 301px;
+  top: 2097px;
+  width: 733px;
+  height: 98px;
+}
+.ap-yanos {
+  color: #000000;
+  text-align: center;
+  font-family: "RobotoCondensed-Bold";
+  font-size: 72px;
+  font-weight: 700;
+  position: absolute;
+  left: 142px;
+  top: 2407px;
+  width: 305px;
+  height: 71px;
+}
+.sobre-nosotros {
+  color: #000000;
+  text-align: center;
+  font-family: "RobotoCondensed-Bold";
+  font-size: 72px;
+  font-weight: 700;
+  position: absolute;
+  left: 142px;
+  top: 3024px;
+  width: 444px;
+  height: 71px;
+}
+.por-favor-si-quieres-ayudarnos-econ-micamente-no-dudes-en-donar-en-kickstarter-as-financiar-as-nuestro-proyecto-y-contribuir-as-a-cumplir-este-gran-sue-o {
+  color: #000000;
+  text-align: left;
+  font-family: "RobotoCondensed-Regular";
+  font-size: 36px;
+  line-height: 44px;
+  font-weight: 400;
+  position: absolute;
+  left: 146px;
+  top: 2561px;
+  width: 751px;
+  height: 184px;
+}
+.somos-aqua-un-equipo-que-apuesta-por-la-inclusi-n-principalmente-por-las-personas-no-videntes-o-de-visibilidad-reducida-creemos-que-la-diversi-n-no-debe-distinguir-condiciones-f-sicas-es-por-eso-que-desarrollamos-crae-el-cual-busca-ser-un-juego-de-cartas-inclusivo-donde-personas-videntes-o-no-videntes-pueden-participar-y-disfrutar-en-conjunto-puedes-encontrarnos-en-instagram-como-crae-cl-o-llamarnos-a-nuestro-n-mero-telef-nico-9-7889-4758 {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 140px;
+  top: 3164px;
+  width: 713px;
+  height: 452px;
+}
+.somos-aqua-un-equipo-que-apuesta-por-la-inclusi-n-principalmente-por-las-personas-no-videntes-o-de-visibilidad-reducida-creemos-que-la-diversi-n-no-debe-distinguir-condiciones-f-sicas-es-por-eso-que-desarrollamos-crae-el-cual-busca-ser-un-juego-de-cartas-inclusivo-donde-personas-videntes-o-no-videntes-pueden-participar-y-disfrutar-en-conjunto-puedes-encontrarnos-en-instagram-como-crae-cl-o-llamarnos-a-nuestro-n-mero-telef-nico-9-7889-4758-span {
+  color: #000000;
+  font-family: "RobotoCondensed-Regular";
+  font-size: 36px;
+  line-height: 40px;
+  font-weight: 400;
+}
+.somos-aqua-un-equipo-que-apuesta-por-la-inclusi-n-principalmente-por-las-personas-no-videntes-o-de-visibilidad-reducida-creemos-que-la-diversi-n-no-debe-distinguir-condiciones-f-sicas-es-por-eso-que-desarrollamos-crae-el-cual-busca-ser-un-juego-de-cartas-inclusivo-donde-personas-videntes-o-no-videntes-pueden-participar-y-disfrutar-en-conjunto-puedes-encontrarnos-en-instagram-como-crae-cl-o-llamarnos-a-nuestro-n-mero-telef-nico-9-7889-4758-span2 {
+  color: #000000;
+  font-family: "RobotoCondensed-Regular";
+  font-size: 34px;
+  line-height: 40px;
+  font-weight: 400;
+}
+.os-971-a-1-1 {
+  width: 375px;
+  height: 305px;
+  position: absolute;
+  left: 934px;
+  top: 2440px;
+  object-fit: cover;
+}
+.filled-blind-right {
+  width: 237px;
+  height: 237px;
+  position: absolute;
+  left: 943px;
+  top: 3141px;
+  overflow: visible;
+}
+.filled-people-blind {
+  width: 238px;
+  height: 238px;
+  position: absolute;
+  left: 1062px;
+  top: 3140px;
+  overflow: visible;
+}
+.aqua {
+  color: #000000;
+  text-align: left;
+  font-family: "RobotoCondensed-Regular";
+  font-size: 96px;
+  font-weight: 400;
+  position: absolute;
+  left: 1001px;
+  top: 3378px;
+  width: 228px;
+  height: 89px;
+}
+.akar-icons-water {
+  width: 82px;
+  height: 80px;
+  position: absolute;
+  left: 1214px;
+  top: 3390px;
+  overflow: hidden;
+}
+.group {
+  width: 70.13%;
+  height: 87.66%;
+  position: absolute;
+  right: 13.21%;
+  left: 16.67%;
+  bottom: 4.01%;
+  top: 8.33%;
+  overflow: visible;
+}
+.bx-bxs-select-multiple {
+  width: 141px;
+  height: 141px;
+  position: absolute;
+  left: 1116px;
+  top: 1388px;
+  overflow: visible;
+}
+.mdi-summit {
+  width: 162px;
+  height: 159px;
+  position: absolute;
+  left: 1108px;
+  top: 2053px;
+  overflow: visible;
+}
+.rectangle-12 {
+  background: #f2f2f2;
+  width: 99px;
+  height: 50px;
+  position: absolute;
+  left: 586px;
+  top: 2212px;
+}
+.rectangle-11 {
+  background: #f2f2f2;
+  width: 73px;
+  height: 37px;
+  position: absolute;
+  left: 438px;
+  top: 2878px;
+}
+.rectangle-13 {
+  background: #000000;
+  width: 1440px;
+  height: 64px;
+  position: absolute;
+  left: 0px;
+  top: 3847px;
+}
+.group-6 {
+  position: absolute;
+  inset: 0;
+}
+._2021-aqua-spa-p-gina-creada-por-sybella-sandoval {
+  text-align: justified;
+  font-family: "RobotoCondensed-Regular";
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 78px;
+  top: 3866px;
+  width: 1307px;
+  height: 26px;
+}
+._2021-aqua-spa-p-gina-creada-por-sybella-sandoval-span {
+  color: #ffffff;
+  font-family: "RobotoCondensed-Regular";
+  font-size: 24px;
+  font-weight: 400;
+}
+._2021-aqua-spa-p-gina-creada-por-sybella-sandoval-span2 {
+  color: #707070;
+  font-family: "RobotoCondensed-Regular";
+  font-size: 24px;
+  font-weight: 400;
+}
+.bx-bx-copyright {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 48px;
+  top: 3868px;
+  overflow: visible;
+}
+.component-2 {
+  width: 237px;
+  height: 54px;
+  position: absolute;
+  left: 993px;
+  top: 658px;
+}
+.rectangle-2 {
+  background: #000000;
+  border-radius: 31.5px;
+  width: 105.06%;
+  height: 109.26%;
+  position: absolute;
+  right: -2.53%;
+  left: -2.53%;
+  bottom: -5.56%;
+  top: -3.7%;
+}
+.material-symbols-shopping-cart {
+  width: 15.19%;
+  height: 66.67%;
+  position: absolute;
+  right: 73%;
+  left: 11.81%;
+  bottom: 12.96%;
+  top: 20.37%;
+  overflow: visible;
+}
+.comprar {
+  color: #ffffff;
+  text-align: center;
+  font-family: "RobotoCondensed-Bold";
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  right: 11.81%;
+  left: 27%;
+  width: 61.18%;
+  bottom: 5.56%;
+  top: 5.56%;
+  height: 88.89%;
+}
+.group-14 {
+  width: 282px;
+  height: 57px;
+  position: absolute;
+  left: 983px;
+  top: 2788px;
+}
+.rectangle-5 {
+  background: #000000;
+  border-radius: 32.5px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.haz-tu-aporte {
+  color: #ffffff;
+  text-align: left;
+  font-family: "RobotoCondensed-Bold";
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  right: 12.77%;
+  left: 16.67%;
+  width: 70.57%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-4 {
+  background: #f2f2f2;
+  width: 1440px;
+  height: 141px;
+  position: sticky;
+  left: 0px;
+  top: -9px;
+  backdrop-filter: blur(2px);
+}
+.group-1 {
+  position: sticky;
+  left: -43px;
+  top: 22px;
+}
+.akar-icons-sun-fill {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 1363px;
+  top: 65px;
+  overflow: hidden;
+}
+.group2 {
+  width: 91.67%;
+  height: 91.67%;
+  position: absolute;
+  right: 4.17%;
+  left: 4.17%;
+  bottom: 4.17%;
+  top: 4.17%;
+  overflow: visible;
+}
+.rectangle-1 {
+  background: #141414;
+  border-radius: 48px;
+  width: 304px;
+  height: 96px;
+  position: absolute;
+  left: -43px;
+  top: 22px;
+}
+.aqua2 {
+  color: #e7e7e7;
+  text-align: left;
+  font-family: "RobotoCondensed-Regular";
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 35px;
+  top: 43px;
+  width: 112px;
+  height: 46px;
+}
+.akar-icons-water2 {
+  width: 46px;
+  height: 45px;
+  position: absolute;
+  left: 152px;
+  top: 46px;
+  overflow: hidden;
+}
+.group3 {
+  width: 70.13%;
+  height: 87.66%;
+  position: absolute;
+  right: 13.21%;
+  left: 16.67%;
+  bottom: 4.01%;
+  top: 8.33%;
+  overflow: visible;
+}
+.rectangle-10 {
+  background: #f8f8f8;
+  width: 197px;
+  height: 40px;
+  position: absolute;
+  left: 893px;
+  top: 64px;
+}
+.rectangle-7 {
+  background: #f8f8f8;
+  width: 153px;
+  height: 41px;
+  position: absolute;
+  left: 507px;
+  top: 63px;
+}
+.rectangle-8 {
+  background: #f8f8f8;
+  width: 153px;
+  height: 40px;
+  position: absolute;
+  left: 700px;
+  top: 64px;
+}
+.rectangle-9 {
+  background: #f8f8f8;
+  width: 90px;
+  height: 44px;
+  position: absolute;
+  left: 344px;
+  top: 60px;
+}
+.group-4 {
+  position: sticky;
+  left: 1338px;
+  top: 499px;
+}
+.group-3 {
+  width: 82px;
+  height: 218px;
+  position: static;
+}
+.rectangle-132 {
+  background: #f2f2f2;
+  border-radius: 16px;
+  width: 82px;
+  height: 218px;
+  position: absolute;
+  left: 1338px;
+  top: 499px;
+}
+.ant-design-instagram-filled {
+  width: 62px;
+  height: 62px;
+  position: absolute;
+  left: 1348px;
+  top: 516px;
+  overflow: visible;
+}
+.brandico-facebook-rect {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 1353px;
+  top: 583px;
+  overflow: visible;
+}
+.font-awesome-5-brands-kickstarter-2 {
+  width: 3.47%;
+  height: 1.39%;
+  position: absolute;
+  right: 2.57%;
+  left: 93.96%;
+  bottom: 82.17%;
+  top: 16.44%;
+  object-fit: cover;
+}
+.bi-moon-fill {
+  width: 35px;
+  height: 35px;
+  position: sticky;
+  left: 1298px;
+  top: 68px;
+  overflow: hidden;
+}
+.group4 {
+  width: 93.75%;
+  height: 100%;
+  position: absolute;
+  right: 6.25%;
+  left: 0%;
+  bottom: 0%;
+  top: 0.01%;
+  overflow: visible;
+}
+.group-9 {
+  width: 732px;
+  height: 38px;
+  position: sticky;
+  left: 354px;
+  top: 71px;
+}
+.sobre-nosotros2 {
+  color: #000000;
+  text-align: center;
+  font-family: "RobotoCondensed-Bold";
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  right: 0%;
+  left: 74.59%;
+  width: 25.41%;
+  bottom: 26.32%;
+  top: 0%;
+  height: 73.68%;
+}
+.ap-yanos2 {
+  color: #000000;
+  text-align: center;
+  font-family: "RobotoCondensed-Bold";
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  right: 34.15%;
+  left: 49.59%;
+  width: 16.26%;
+  bottom: 26.32%;
+  top: 0%;
+  height: 73.68%;
+}
+.group-12 {
+  position: absolute;
+  inset: 0;
+}
+.c-mo-jugar2 {
+  color: #000000;
+  text-align: center;
+  font-family: "RobotoCondensed-Bold";
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  right: 59.15%;
+  left: 21.99%;
+  width: 18.85%;
+  bottom: 26.32%;
+  top: 0%;
+  height: 73.68%;
+}
+.line-1 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #a4a4a4;
+  border-width: 2px 0 0 0;
+  width: 99.73%;
+  height: 0%;
+  position: absolute;
+  right: 0%;
+  left: 0.27%;
+  bottom: 0%;
+  top: 100%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.group-7 {
+  position: absolute;
+  inset: 0;
+}
+.inicio {
+  color: #000000;
+  text-align: center;
+  font-family: "RobotoCondensed-Bold";
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  right: 90.16%;
+  left: 0%;
+  width: 9.84%;
+  bottom: 26.32%;
+  top: 0%;
+  height: 73.68%;
+}
+.line-2 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 9.15%;
+  height: 0%;
+  position: absolute;
+  right: 90.57%;
+  left: 0.27%;
+  bottom: 0%;
+  top: 100%;
+}
