@@ -4,57 +4,76 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    display: grid;
+    p{
+      font-family: "RobotoCondensed-Regular.ttf";
+    
+    }
+    h2{
+      font-family:"RobotoCondensed-Bold.ttf"; }
+    
   }
   header{
     display: flex;
+    width: 1320px;
+    height: 592px;
+    
   }
-  .grid_columns{
-    display: grid;
-    grid-template-columns: repeat(3);
-  }
+
   .column1{
     font-family: "RobotoCondensed-Regular.ttf";
+    position: relative;
+    width:707px;
+    height: 592px;
+    align-items: center;
+    justify-content: center;
   }
   .column2{
-
+    width: 494px;
+    height:  541px;
+    position: relative;
+    align-items: center;
   }
   .column3_redes{
 
   }
   .how{
-    h2{
-      font-family: "RobotoCondensed-Bold.ttf";
-
-    }
-    p{
-      font-family: "RobotoCondensed-Regular.ttf";
-    }
+    flex-direction: row;
   }
   .rules{
+      flex-direction: column;
+      display: flex;
+      flex-wrap: ;
+    
+  }
+  .column_rules{
+    flex-direction: row;
+    border: 3px blue;
+  
+  }
+  .circulo{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    position: absolute;
     h2{
-      background-color: black;
+      
       color: white;
       font-family:"RobotoCondensed-Bold.ttf"; 
+      align-items: center;
     }
-    p{
-      font-family: "RobotoCondensed-Regular.ttf";
-    }
+
   }
   .apoyanos{
     h2{
-      font-family:"RobotoCondensed-Bold.ttf"; 
       font-size: 72px;
 
     }
   }
   .sobre_nosotros{
     h2{
-      font-family:"RobotoCondensed-Bold.ttf"; 
       font-size: 72px;
-
-    }
-    p{
-      font-family: "RobotoCondensed-Regular.ttf";
 
     }
   }
